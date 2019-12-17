@@ -1,0 +1,10 @@
+C:\Users\DSU\source\repos\Final DnD Generator\Final DnD Generator\obj\Debug\Final DnD Generator.csprojAssemblyReference.cache
+C:\Users\DSU\source\repos\Final DnD Generator\Final DnD Generator\obj\Debug\Final_DnD_Generator.Properties.Resources.resources
+C:\Users\DSU\source\repos\Final DnD Generator\Final DnD Generator\obj\Debug\Final DnD Generator.csproj.GenerateResource.cache
+C:\Users\DSU\source\repos\Final DnD Generator\Final DnD Generator\obj\Debug\Final DnD Generator.csproj.CoreCompileInputs.cache
+C:\Users\DSU\source\repos\Final DnD Generator\Final DnD Generator\bin\Debug\Final DnD Generator.exe.config
+C:\Users\DSU\source\repos\Final DnD Generator\Final DnD Generator\bin\Debug\Final DnD Generator.exe
+C:\Users\DSU\source\repos\Final DnD Generator\Final DnD Generator\bin\Debug\Final DnD Generator.pdb
+C:\Users\DSU\source\repos\Final DnD Generator\Final DnD Generator\obj\Debug\Final_DnD_Generator.Form1.resources
+C:\Users\DSU\source\repos\Final DnD Generator\Final DnD Generator\obj\Debug\Final DnD Generator.exe
+C:\Users\DSU\source\repos\Final DnD Generator\Final DnD Generator\obj\Debug\Final DnD Generator.pdb

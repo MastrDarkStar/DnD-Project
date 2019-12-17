@@ -1,0 +1,135 @@
+<Project>
+  <Name>Final UML</Name>
+  <ProjectItem type="NClass.DiagramEditor.ClassDiagram.Diagram" assembly="NClass.DiagramEditor, Version=2.4.1823.0, Culture=neutral, PublicKeyToken=null">
+    <Name>Final DnD</Name>
+    <Language>CSharp</Language>
+    <Entities>
+      <Entity type="Class">
+        <Name>Form1</Name>
+        <Access>Public</Access>
+        <Location left="430" top="50" />
+        <Size width="162" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Method">public void Start()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>WeaponsHealth</Name>
+        <Access>Public</Access>
+        <Location left="19" top="214" />
+        <Size width="162" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">int picker</Member>
+        <Member type="Field">int HP</Member>
+        <Member type="Field">int RoughHP</Member>
+        <Member type="Field">string weapon</Member>
+        <Member type="Method">public void Health()</Member>
+        <Member type="Method">public void Weapons()</Member>
+        <Member type="Method">public void Health(int level)</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>LevelAgeStats</Name>
+        <Access>Public</Access>
+        <Location left="238" top="104" />
+        <Size width="162" height="468" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">int Age</Member>
+        <Member type="Field">int Level</Member>
+        <Member type="Field">int Strength</Member>
+        <Member type="Field">int BaseStrength</Member>
+        <Member type="Field">int Dexterity</Member>
+        <Member type="Field">int BaseDexterity</Member>
+        <Member type="Field">int Constitution</Member>
+        <Member type="Field">int BaseConstitution</Member>
+        <Member type="Field">int Intelligence</Member>
+        <Member type="Field">int BaseIntelligence</Member>
+        <Member type="Field">int Wisdom</Member>
+        <Member type="Field">int BaseWisdom</Member>
+        <Member type="Field">int Charisma</Member>
+        <Member type="Field">int BaseCharisma</Member>
+        <Member type="Field">int RoughAge</Member>
+        <Member type="Field">int NewAge</Member>
+        <Member type="Method">public void genStrength()</Member>
+        <Member type="Method">public void genDexterity()</Member>
+        <Member type="Method">public void genConstitution()</Member>
+        <Member type="Method">public void genIntelligence()</Member>
+        <Member type="Method">public void genWisdom()</Member>
+        <Member type="Method">public void genCharisma()</Member>
+        <Member type="Method">public void genAge()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>MonsterDisease</Name>
+        <Access>Public</Access>
+        <Location left="650" top="46" />
+        <Size width="162" height="349" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">int typepick</Member>
+        <Member type="Field">int diseasepick</Member>
+        <Member type="Field">bool ismonster</Member>
+        <Member type="Field">bool isdiseased</Member>
+        <Member type="Field">string disease</Member>
+        <Member type="Field">string disease1</Member>
+        <Member type="Field">string disease2</Member>
+        <Member type="Field">string disease3</Member>
+        <Member type="Field">string disease4</Member>
+        <Member type="Field">string type</Member>
+        <Member type="Field">string type1</Member>
+        <Member type="Field">string type2</Member>
+        <Member type="Field">string type3</Member>
+        <Member type="Field">string type4</Member>
+        <Member type="Method">public void genIllness()</Member>
+        <Member type="Method">public void genType()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>NameTraits</Name>
+        <Access>Public</Access>
+        <Location left="844" top="50" />
+        <Size width="162" height="621" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">int TraitPick</Member>
+        <Member type="Field">int FlawPick</Member>
+        <Member type="Field">int IdealPick</Member>
+        <Member type="Field">int BondPick</Member>
+        <Member type="Field">int QuirkPick</Member>
+        <Member type="Field">string Ideal</Member>
+        <Member type="Field">string Flaw</Member>
+        <Member type="Field">string Bond</Member>
+        <Member type="Field">string Trait</Member>
+        <Member type="Field">string Quirk</Member>
+        <Member type="Field">string Ideal1</Member>
+        <Member type="Field">string Ideal2</Member>
+        <Member type="Field">string Ideal3</Member>
+        <Member type="Field">string Ideal4</Member>
+        <Member type="Field">string Flaw1</Member>
+        <Member type="Field">string Flaw2</Member>
+        <Member type="Field">string Flaw3</Member>
+        <Member type="Field">string Flaw4</Member>
+        <Member type="Field">string Traits1</Member>
+        <Member type="Field">string Traits2</Member>
+        <Member type="Field">string Traits3</Member>
+        <Member type="Field">string Traits4</Member>
+        <Member type="Field">string Bond1</Member>
+        <Member type="Field">string Bond2</Member>
+        <Member type="Field">string Bond3</Member>
+        <Member type="Field">string Bond4</Member>
+        <Member type="Field">string Quirk1</Member>
+        <Member type="Field">string Quirk2</Member>
+        <Member type="Field">string Quirk3</Member>
+        <Member type="Field">string Quirk4</Member>
+        <Member type="Method">public void MakingTraits()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+    </Entities>
+    <Relationships>
+      <Relationship type="Dependency" first="1" second="2">
+        <Label>
+        </Label>
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+      </Relationship>
+    </Relationships>
+  </ProjectItem>
+</Project>
